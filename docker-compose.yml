@@ -1,0 +1,5 @@
+services:
+  institucion:
+    image: omarweb/institucion-app:3.0
+    ports:
+      - "8085:8085"
